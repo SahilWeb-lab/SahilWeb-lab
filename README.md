@@ -19,6 +19,19 @@
 
 ---
 
+## 📦 Featured Projects
+
+| Project 🛠️ | Tech Stack 💻 | Description 📄 |
+|------------|----------------|----------------|
+| [🔗 E-Commerce API](https://github.com/your-ecommerce-repo) | `Java`, `Spring Boot`, `JWT`, `MySQL` | A complete backend for an eCommerce platform with features like user roles, product management, cart, and checkout. |
+| [📝 eNotes Web App](https://github.com/your-enotes-repo) | `Java`, `Spring Boot`, `JWT`, `MySQL` | A simple note-taking app with CRUD operations Rest APIs. |
+| [💳 Razorpay Integration](https://github.com/your-razorpay-repo) | `Spring Boot`, `REST API`, `Razorpay` | Integrated Razorpay payment system for real-time payments in Java backend. |
+| [📌 JWT Auth System](https://github.com/your-jwt-auth-repo) | `Spring Security`, `JWT`, `REST API` | Role-based secure authentication system for modern backend projects. |
+
+> 📝 **More Projects:** Check out my [GitHub Repositories](https://github.com/SahilWeb-lab?tab=repositories)
+
+---
+
 ## 🧰 Tech Stack & Tools
 
 <div align="center">
@@ -39,19 +52,6 @@
 | **Payment Gateway** | `Razorpay`, `Stripe`, `Paypal`, `Paytm`                                                |
 | **Concepts**        | `REST APIs`, `OOP`, `MVC`, `Microservices`, `Exception Handling`, `CI/CD`|
 | **Others**        | `Angular`, `JQuery`, `AJAX`, `Bootstrap`, `Tailwind CSS`, `Servlet`, `Thymeleaf`, `JDBC`, `Hibernate`|
----
-
-## 📦 Featured Projects
-
-| Project 🛠️ | Tech Stack 💻 | Description 📄 |
-|------------|----------------|----------------|
-| [🔗 E-Commerce API](https://github.com/your-ecommerce-repo) | `Java`, `Spring Boot`, `JWT`, `MySQL` | A complete backend for an eCommerce platform with features like user roles, product management, cart, and checkout. |
-| [📝 eNotes Web App](https://github.com/your-enotes-repo) | `Java`, `Spring Boot`, `JWT`, `MySQL` | A simple note-taking app with CRUD operations Rest APIs. |
-| [💳 Razorpay Integration](https://github.com/your-razorpay-repo) | `Spring Boot`, `REST API`, `Razorpay` | Integrated Razorpay payment system for real-time payments in Java backend. |
-| [📌 JWT Auth System](https://github.com/your-jwt-auth-repo) | `Spring Security`, `JWT`, `REST API` | Role-based secure authentication system for modern backend projects. |
-
-> 📝 **More Projects:** Check out my [GitHub Repositories](https://github.com/SahilWeb-lab?tab=repositories)
-
 ---
 
 ## 🌐 Let's Connect
