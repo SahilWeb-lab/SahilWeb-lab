@@ -27,6 +27,20 @@
 
 ---
 
+## 🛠️ My Skills
+
+| Category 🧩        | Skills 💡                                                                 |
+|--------------------|---------------------------------------------------------------------------|
+| **Languages**       | `Java`, `SQL`, `HTML`, `CSS`, `JavaScript, PHP`                          |
+| **Backend**         | `Spring Boot`, `Spring MVC`, `Spring Security`, `JPA`, `Hibernate`       |
+| **Databases**       | `MySQL`, `MongoDB`, `H2`, `Postgres`                                                      |
+| **Tools & DevOps**  | `Git`, `GitHub`, `Postman`, `Maven`, `Lombok`, `Docker (Basics)`         |
+| **Authentication**  | `JWT`, `Spring Security`, `OAuth`                               |
+| **Payment Gateway** | `Razorpay`, `Stripe`, `Paypal`, `Paytm`                                                |
+| **Concepts**        | `REST APIs`, `OOP`, `MVC`, `Microservices`, `Exception Handling`, `CI/CD`|
+| **Others**        | `Angular`, `JQuery`, `AJAX`, `Bootstrap`, `Tailwind CSS`, `Servlet`, `Thymeleaf`, `JDBC`, `Hibernate`|
+---
+
 ## 📦 Featured Projects
 
 | Project 🛠️ | Tech Stack 💻 | Description 📄 |
