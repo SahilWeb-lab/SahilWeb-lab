@@ -1,28 +1,33 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Sahil+Kr+Mandal;Backend+Developer+%7C+Java+%7C+Spring+Boot;Always+Learning+%F0%9F%92%AF+Building+Cool+Stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Sahil+Kr+Mandal;Backend+Developer+%7C+Java+%7C+Spring+Boot;Always+Learning+%F0%9F%92%AF+Building+Cool+Stuff" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=header" />
 </p>
 
 ---
 
 ## ✨ About Me
 
-👋 I'm a **Software Engineer** who thrives on solving real-world problems with clean architecture and simple design.
+👋 I'm **Sahil Kr Mandal**, a passionate **Software Engineer** focused on building robust and scalable backend systems using **Java** and **Spring Boot**. I believe in clean architecture, efficient APIs, and elegant code.
 
-🔭 Currently working on:
-- Building scalable backend APIs with Spring Boot
-- Integrating payment gateways (Razorpay, Stripe)
-- Designing secure auth systems with JWT
+🔧 **Currently Working On:**
+- 🚀 Developing scalable microservices using Spring Boot
+- 💳 Payment gateway integration (Stripe, Razorpay)
+- 🔐 Designing secure JWT-based auth systems
+- 📦 Building RESTful APIs from scratch
 
-💬 Ask me about:  
-`Java • Spring Boot • API Design • SQL/NoSQL • Git • Security • Problem Solving`
+🧠 **Ask Me About:**
+`Java • Spring Boot • SQL & NoSQL • REST APIs • Git • Microservices • Security • Problem Solving`
 
 ---
 
-## 🧰 Toolbox
+## 🧰 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,git,mysql,hibernate,jwt,postman,lombok" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,git,mysql,hibernate,jwt,postman,lombok,docker" />
 </div>
 
 ---
@@ -31,13 +36,16 @@
 
 | Project 🛠️ | Tech Stack 💻 | Description 📄 |
 |------------|----------------|----------------|
-| [🔗 E-Commerce API](https://github.com/your-ecommerce-repo) | `Java`, `Spring Boot`, `JWT`, `MySQL` | A complete backend for an eCommerce app with admin panel, cart, checkout, etc. |
-| [📝 eNotes Web App](https://github.com/your-enotes-repo) | `Spring MVC`, `Thymeleaf`, `JPA` | Create, update, and delete notes with a responsive UI. |
-| [💳 Razorpay Integration](https://github.com/your-razorpay-repo) | `Spring Boot`, `REST API`, `Razorpay` | Simple Spring project integrating Razorpay for real-time payments. |
+| [🔗 E-Commerce API](https://github.com/your-ecommerce-repo) | `Java`, `Spring Boot`, `JWT`, `MySQL` | A complete backend for an eCommerce platform with features like user roles, product management, cart, and checkout. |
+| [📝 eNotes Web App](https://github.com/your-enotes-repo) | `Spring MVC`, `Thymeleaf`, `JPA`, `MySQL` | A simple note-taking app with CRUD operations and a user-friendly UI. |
+| [💳 Razorpay Integration](https://github.com/your-razorpay-repo) | `Spring Boot`, `REST API`, `Razorpay` | Integrated Razorpay payment system for real-time payments in Java backend. |
+| [📌 JWT Auth System](https://github.com/your-jwt-auth-repo) | `Spring Security`, `JWT`, `REST API` | Role-based secure authentication system for modern backend projects. |
+
+> 📝 **More Projects:** Check out my [GitHub Repositories](https://github.com/nasrmohammad4804?tab=repositories)
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nasrmohammad4804&show_icons=true&theme=radical" height="150" />
